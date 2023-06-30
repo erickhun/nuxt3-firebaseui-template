@@ -12,5 +12,9 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18",
     "nuxt": "^3.6.1"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "firebaseui": "^6.0.2"
   }
 }
