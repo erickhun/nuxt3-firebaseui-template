@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 + Firebase + FirebaseUI + Vuefire 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Read this article for more information: https://erickhun.com/posts/nuxt3-and-firebase-users-auth/
 
 ## Setup
 
@@ -60,4 +60,3 @@ pnpm run preview
 yarn preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
