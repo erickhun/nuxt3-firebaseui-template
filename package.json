@@ -15,6 +15,8 @@
   },
   "dependencies": {
     "firebase": "^9.23.0",
-    "firebaseui": "^6.0.2"
+    "firebaseui": "^6.0.2",
+    "nuxt-vuefire": "^0.1.6",
+    "vuefire": "^3.1.0"
   }
 }
